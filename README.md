@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=61260596)
 <h1 align="center">Hi 👋, I'm Jafet</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
