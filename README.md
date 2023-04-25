@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jetvax.jv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wK5AcWJFG48gYuFU6JLtf5xJYKlku0CO/view](https://drive.google.com/file/d/1wK5AcWJFG48gYuFU6JLtf5xJYKlku0CO/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1GW361KoAiFkdL4B8U0T2CXGR33PP_UvG/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
