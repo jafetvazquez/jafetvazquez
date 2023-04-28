@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafetvazquez&label=Profile%20views&color=333638&style=flat" alt="jafetvazquez" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jafetdev.netlify.app/](https://jafetdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jafetdev.tech/](https://jafetdev.tech/)
 
 - 📫 How to reach me **jetvax.jv@gmail.com**
 
