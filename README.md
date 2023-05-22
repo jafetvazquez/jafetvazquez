@@ -1,8 +1,6 @@
-![]
+![](https://hit.yhype.me/github/profile?user_id=61260596)
 <h1 align="center">Hi 👋, I'm Jafet</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafetvazquez&label=Profile%20views&color=333638&style=flat" alt="jafetvazquez" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://jafetdev.tech/](https://jafetdev.tech/)
 
