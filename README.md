@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 
-- 👨‍💻 All of my projects are available at [portfolio](https://jafetdev.tech/)
+- 👨‍💻 All of my projects are available at [portfolio](https://jafet.vercel.app/)
 
 - 📫 How to reach me **jetvax.jv@gmail.com**
 
