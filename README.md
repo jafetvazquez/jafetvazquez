@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/jafet.zip/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://jafet.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2abbc3?style=for-the-badge" height="25" alt="portfolio"  />
+  </a>
 </div>
 
 ###
