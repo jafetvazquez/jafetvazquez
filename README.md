@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Jafet from Mexico<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I make music</p>
+<p align="left">I'm Jafet from Mexico<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time <a href="[https://example.com](https://linktr.ee/HXNDRED)">I make music</a></p>
 
 ###
 
